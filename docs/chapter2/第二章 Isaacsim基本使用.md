@@ -386,5 +386,3 @@ tasks/pick_place.py 脚本会创建一个选取任务 ，设置 UR10e 的操作�
 pick_place_example.py 脚本负责整合所有内容并运行模拟。
 
 <img src=".\assets\rmp_pick.png"/>
-
-## 2.4 传感器添加实践
