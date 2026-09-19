@@ -169,6 +169,16 @@
 | 陈可为 | 联合发起者 | 中国科学院大学 | 第五章 内容贡献 |
 | 张天一 | 联合发起者 | 北京工业大学 | 前沿算法1，2 内容贡献 |
 
+## Star History
+
+<div align='center'>
+    <img src="./assets/star-history-2026920.png" alt="Datawhale" width="90%">
+</div>
+
+<div align="center">
+  <p>⭐ 如果这个项目对你有帮助，请给我们一个 Star！</p>
+</div>
+
 ## 参与贡献
 
 - 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
